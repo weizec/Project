@@ -1,8 +1,0 @@
-{"australia": {"total number": 250059, "keyword relation": 11528, "emotion proportion": {"pos": 4464, "neg": 5839, "neu": 1225, "compound": 0}},
-  "melbourne": {"total number": 622224, "keyword relation":32973, "emotion proportion": {"pos": 13835, "neg": 14895, "neu": 4143, "compound": 0}},
-  "sydney": {"total number": 1906619, "keyword relation": 43274, "emotion proportion": {"pos": 18437, "neg": 19629, "neu": 5208, "compound": 0}},
-  "brisbane": {"total number": 638479, "keyword relation": 20163, "emotion proportion": {"pos": 7650, "neg": 8726, "neu": 3787, "compound": 0}},
-  "perth": {"total number": 463721, "keyword relation": 19543, "emotion proportion": {"pos": 7752, "neg": 8538, "neu": 3253, "compound": 0}},
-  "adelaide": {"total number": 350008, "keyword relation": 18052, "emotion proportion": {"pos": 7579, "neg": 8439, "neu": 2034, "compound": 0}}
-}
-
